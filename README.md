@@ -1,9 +1,7 @@
-Udacity Make your App Material project
-===================================
+Udacity Make My App Material Design concepts applicable.
 
-Project 5 of Udacity's Android Nanodegree program.
+Udacity's Android Nanodegree program project 5.
 
 
-Objective
---------------
-Upgrade an app look and feel by adding Material Design concepts, components and UX patterns.
+Objective:
+Applying an app look and feel by adding Material Design concepts, components and UX patternss.
