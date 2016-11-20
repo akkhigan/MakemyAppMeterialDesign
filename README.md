@@ -1,4 +1,4 @@
-Udacity Make My App Material Design concepts applicable.
+Make My App Material Design concepts applicable.
 
 Udacity's Android Nanodegree program project 5.
 
